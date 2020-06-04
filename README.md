@@ -16,8 +16,12 @@
 **Prediction:** I think that the smaller NN will underfit, while the larger NN will overfit.
 
 **Results:**		
+![](/1.png?raw=true "3 layer")
+![](/2.png?raw=true "2 layer")
+![](/3.png?raw=true "4 layer")
 
 **Results summary:** 
+
 
 •	All NN are still increasing in accuracy and decreasing in loss, suggesting all 3 NNs are still not fully optimized. Layer-4 is the slowest learner, layer-3 (control) is second slowest, and layer-2 is fastest.
 
