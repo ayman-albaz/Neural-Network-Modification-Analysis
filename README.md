@@ -16,6 +16,7 @@
 **Prediction:** I think that the smaller NN will underfit, while the larger NN will overfit.
 
 **Results:**
+
 2 Layer
 ![](/2.png?raw=true "2 layer")
 3 Layer
