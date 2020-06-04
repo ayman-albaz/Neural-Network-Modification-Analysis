@@ -15,10 +15,13 @@
 
 **Prediction:** I think that the smaller NN will underfit, while the larger NN will overfit.
 
-**Results:**		
-![](/1.png?raw=true "3 layer")
+**Results:**
+2 Layer
 ![](/2.png?raw=true "2 layer")
-![](/3.png?raw=true "4 layer")
+3 Layer
+![](/3.png?raw=true "3 layer")
+4 Layer
+![](/4.png?raw=true "4 layer")
 
 **Results summary:** 
 
